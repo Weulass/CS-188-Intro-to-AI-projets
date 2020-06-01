@@ -7,4 +7,5 @@ Ideas and techniques underlying the design of intelligent computer systems. Topi
 ## Project 1
 
 Implemented Depth First Search, Breadth First Search, Uniform Cost Search, and A* Search. Created different heuristics. Helped pacman agent find shortest path to eat all dots.
+
 ![UI V2](https://github.com/Weulass/CS-188-projets/blob/master/P1-Search/P1.png)
